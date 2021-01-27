@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 modifiyin and making changes this will be on my stash 0
+=======
+This will be the Stash 4 
+>>>>>>> Stashed changes
 
 <<<<<<< Updated upstream
 I am modifiying this file and will stash it for my records later
