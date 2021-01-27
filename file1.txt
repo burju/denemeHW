@@ -1,4 +1,13 @@
+<<<<<<< Updated upstream
 I am modifiying this file and will stash it for my records later
+=======
+
+I am making a new change in my file for the second time
+and will stash that for the second time.
+
+
+now I am updating this file
+>>>>>>> Stashed changes
 
 now I am updating this file
  nrarakjhjfgagfkajg
